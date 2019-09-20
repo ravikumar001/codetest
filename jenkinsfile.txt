@@ -22,7 +22,7 @@ git 'https://github.com/ravikumar001/codetest'
         
 }
        
- stage('continuous build')
+ stage('continuous bbuild')
        
  {
            
